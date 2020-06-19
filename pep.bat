@@ -1,0 +1,1 @@
+node "passhojao.js" "credentials.json"
